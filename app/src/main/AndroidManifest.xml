@@ -29,6 +29,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MyCamera">
         <activity
+            android:name=".DetailPhoto"
+            android:exported="false" />
+        <activity
             android:name=".UploadServer"
             android:exported="false" />
         <activity

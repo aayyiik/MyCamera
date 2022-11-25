@@ -6,4 +6,6 @@
     <string name="upload">Unggah</string>
     <string name="Halo">Halo ini adalah percobaan</string>
     <string name="button">Button</string>
+    <string name="ini_adalah_detail_foot">Ini adalah detail foot</string>
+    <string name="tempat_upload">INi adalah tempat upload ke server</string>
 </resources>
